@@ -1,2 +1,1 @@
-import Xxxn
-main()
+import Free
